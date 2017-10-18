@@ -5,4 +5,4 @@ import random
 a=34
 b=56
 g=a+b
-print (g)
+print (g+10)
